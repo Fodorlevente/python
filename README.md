@@ -2,8 +2,6 @@
 
 ### Used Packages
 
-Dillinger uses a number of open source projects to work properly:
-
 * html - HTML code generator for Python
 * openpyxl - Excel report generating
 * requests - Web requests
